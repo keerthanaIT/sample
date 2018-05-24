@@ -1,0 +1,10 @@
+ Volume in drive C is abi
+ Volume Serial Number is FE98-67CB
+
+ Directory of C:\Users\Keerthana\Desktop\MyProject
+
+05/24/2018  06:38 PM    <DIR>          .
+05/24/2018  06:38 PM    <DIR>          ..
+05/24/2018  06:38 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   9,758,666,752 bytes free
