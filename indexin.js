@@ -1,11 +1,10 @@
+console.log('heloo node');
 const fs = require('fs');
 const os = require('os');
 const notes = require('./notes.js');
-const res = notes.addNote();
-console.log (res);
-var  result = notes.add(2,2);
-console.log(result);
-var user = os.userInfo();
-console.log(user.username);
-fs.appendFile('message.txt','heloo/'+ user.username + notes.age);
+const _ = require('lodash');
+console.log(_.isString('abc'));
+console.log(_.isString(123));
+var filteredArray = _.uniq([2,1,3,2,1,5,8,4]);
+console.log(filteredArray);
 
